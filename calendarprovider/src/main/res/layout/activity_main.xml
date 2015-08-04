@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              tools:context=".MainActivity">
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/query_calendar"
+        style="@style/ButtonStyle"
+        android:onClick="queryCalendar"
+        android:text="Querying calendars"/>
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/query_event"
+        style="@style/ButtonStyle"
+        android:onClick="queryEvent"
+        android:text="Querying events"/>
+
+</LinearLayout>
