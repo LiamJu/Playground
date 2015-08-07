@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bri/goodev/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/bri/goodev/github/Playground/dagger/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-f7a5c692ac5b19b17c2a1655875497eed0ca96b2.jar" />
+    </item>
+    <item
+        jar="/home/bri/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/home/bri/goodev/github/Playground/dagger/build/intermediates/pre-dexed/debug/dagger-1.2.2-bbe97f9a428cb282e356aadf784812d8e0ecd3cb.jar" />
+    </item>
+    <item
+        jar="/home/bri/goodev/github/Playground/kotlin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/bri/goodev/github/Playground/kotlin/build/intermediates/pre-dexed/debug/classes-86a8321794d069b631336cc388986d18f9d5525a.jar" />
+    </item>
+    <item
+        jar="/home/bri/goodev/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/bri/goodev/github/Playground/kotlin/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-efdbb83f697830afa65bddc2a1db0f7d3d4dd468.jar" />
+    </item>
+    <item
+        jar="/home/bri/goodev/github/Playground/kotlin/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/bri/goodev/github/Playground/kotlin/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-6a405e412690162cea7ed8422c5dd9473480a415.jar" />
+    </item>
+    <item
+        jar="/home/bri/goodev/github/Playground/dagger/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/bri/goodev/github/Playground/dagger/build/intermediates/pre-dexed/debug/classes-ad2832de633d1d59f3ef4c43f2ca2c03f0a9b964.jar" />
+    </item>
+    <item
+        jar="/home/bri/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/bri/goodev/github/Playground/dagger/build/intermediates/pre-dexed/debug/javax.inject-1-4d295ed931e8d0eea6aaf64a27eed840198a5320.jar" />
+    </item>
+    <item
+        jar="/home/bri/goodev/github/Playground/kotlin/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/bri/goodev/github/Playground/kotlin/build/intermediates/pre-dexed/debug/classes-76d388d1be2fc05b19a925938c397564aa05a8f7.jar" />
+    </item>
+    <item
+        jar="/home/bri/goodev/github/Playground/dagger/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/bri/goodev/github/Playground/dagger/build/intermediates/pre-dexed/debug/classes-a38c1e2628df31e5ace7f1754d85a14dbcb22785.jar" />
+    </item>
+    <item
+        jar="/home/bri/goodev/github/Playground/dagger/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/bri/goodev/github/Playground/dagger/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8ae426a6e81e7c432d6aa8313d61cb8561e58b81.jar" />
+    </item>
+
+</items>
