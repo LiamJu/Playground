@@ -1,1 +1,1 @@
-include ':app', ':calendarprovider', ':dagger', ':kotlin'
+include ':app', ':calendarprovider', ':dagger'
