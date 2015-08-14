@@ -5,7 +5,7 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:1.2.3'
-        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:0.6.+'
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:0.12.1230'
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
     }
@@ -18,5 +18,11 @@ allprojects {
             url 'https://clojars.org/repo/'
         }
     }
+}
+ext {
+    kotlinVersion = "0.12.1230"
+
+    // Android Libraries
+    appcompat7Version = '22.2.1'
 }
 
