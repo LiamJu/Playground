@@ -26,5 +26,3 @@ ext {
     // Android Libraries
     appcompat7Version = '22.2.1'
 }
-
-

@@ -1,11 +1,9 @@
 package io.github.brightyoyo
 
 import android.app.Activity
-import android.media.audiofx.BassBoost
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import io.github.brightyoyo.foo.Person
-import java.util.*;
 
 /**
  * @author bri
@@ -39,7 +37,4 @@ class BaseImpl(val x:Int) :Base {
         print(x)
     }
 
-    class Derived(b:Base) :Base by b
-
 }
-
